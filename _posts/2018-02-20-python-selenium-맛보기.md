@@ -30,6 +30,7 @@ selenium을 이용해 네이버에 로그인하는 간단한 기능을 만들어
 
 ```python
 from selenium import webdriver
+
 driver = webdriver.Chrome("chrome driver 다운로드 경로");
 driver.get("https://nid.naver.com/nidlogin.login")
 ```
@@ -42,6 +43,7 @@ find_element_by_name() 함수를 이용하여 아이디와 비밀번호를 입�
 
 ```python
 from selenium import webdriver
+
 driver = webdriver.Chrome("chrome driver 다운로드 경로");
 driver.get("https://nid.naver.com/nidlogin.login")
 
