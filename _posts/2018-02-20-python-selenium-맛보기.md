@@ -49,7 +49,7 @@ element = driver.find_element_by_name('id')
 element.send_keys('user_id')
 element = driver.find_element_by_name('pw')
 element.send_keys('user_password')
-sleep(3);		// 3초 간 sleep
+sleep(3);		# 3초 간 sleep
 element.submit()
 ```
 <br/>
