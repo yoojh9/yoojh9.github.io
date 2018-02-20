@@ -55,3 +55,7 @@ sleep(3);		# 3초 간 sleep
 element.submit()
 ```
 <br/>
+
+위 코드를 실행하면 아이디와 비밀번호 input box에 값이 채워지고 3초 후 submit() 되는것을 확인할 수 있다.
+
+![Alt text](../images/20180220-2.jpg)
