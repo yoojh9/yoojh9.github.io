@@ -34,7 +34,7 @@ driver = webdriver.Chrome("chrome driver 다운로드 경로");
 driver.get("https://nid.naver.com/nidlogin.login")
 ```
 
-![Alt text](../image/20180220-1.jpg)
+![Alt text](../images/20180220-1.jpg)
 
 <br/>
 크롬 개발자 모드(f12)를 통해 각 요소의 name 또는 id 값을 확인한다.  
@@ -49,7 +49,7 @@ element = driver.find_element_by_name('id')
 element.send_keys('user_id')
 element = driver.find_element_by_name('pw')
 element.send_keys('user_password')
-sleep(3);		// 3초간 sleep
+sleep(3);		// 3초 간 sleep
 element.submit()
 ```
 <br/>
