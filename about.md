@@ -10,6 +10,14 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
+### Work Experience
+
+
+
+### Education
+
+
+
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yoojh9@gmail.com](mailto:yoojh9@gmail.com)
