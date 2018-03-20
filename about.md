@@ -32,10 +32,11 @@ permalink: /about/
 
 ### Technical Skill
 - Java, Python
-- Spring, SpringBoot, mybatis, jmeter
+- Spring, SpringBoot, mybatis
 - Heroku, Tomcat
-- Javascript, React.js, Node.js, express, jQuery,
+- Javascript, React.js, Node.js, express, jQuery
 - mysql, redis, Mongodb, mariadb
+- git, svn, jmeter
 
 <br/>
 
