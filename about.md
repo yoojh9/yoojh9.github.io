@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### "유정현"
-- Back-end 개발자이지만, Front-end에 관심이 많은
+- Back-end 개발자이지만 Front-end에 관심이 많은, Front-end 개발자를 꿈꾸는
 - Github:  [https://github.com/yoojh9/](https://github.com/yoojh9/)  
 - Email: yoojh9@gmail.com
 
@@ -31,15 +31,15 @@ permalink: /about/
 <br/>
 
 ### Technical Skill
-- Java, Spring, SpringBoot, mybatis, Tomcat
-- Heroku
+- Java, Spring, SpringBoot, mybatis, jmeter
+- Heroku, Tomcat
 - Javascript, React.js, Node.js, jQuery,
 - mysql, redis, Mongodb, mariadb
 
 <br/>
 
 ### Project
-- 2016.11 ~ 2018.02 : <b> 교육유통플랫폼 '이음' 서비스 개발 </b> - API 서버 개발, 스케줄러 개발 및 메인 사이트 백엔드 개발 (Java, SpringBoot, Spring Batch, Git, AWS, swagger-ui, mysql, mybatis, paypal 연동 )
+- 2016.11 ~ 2018.02 : <b> 교육유통플랫폼 '이음' 서비스 개발 </b> - API 서버 개발, 스케줄러 개발, 메인 사이트 백엔드 개발 (Java, SpringBoot, Spring Batch, Git,  swagger-ui, mysql, mybatis, jmeter, paypal 결제 연동)
 - 2016.06 ~ 2016.10 : <b> LG유플러스 스팸차단서비스 </b> -  관리자 페이지 기능 강화 및 추가 개발, 사용자 앱(hybrid app) 인증 수정 (Java, velocity, bootstrap, spring, altibase/mariadb, tomcat)
 - 2016.05 ~ 2016.16 : <b> kt엠하우스 혜택존 </b> - 관리자 웹, 사용자 앱 추가 요구사항 개발
 - 2015.12 ~ 2016.05 : <b> IoT기반 캠퍼스마이크로그리드 구축 및 실증과제 </b> - 데몬 개발(메인) / 웹개발(서브) (Node.js, express, bootstrap, mysql, git)
