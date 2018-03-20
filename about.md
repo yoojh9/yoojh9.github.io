@@ -9,22 +9,26 @@ permalink: /about/
 - Github: https://github.com/yoojh9/
 - Email: yoojh9@gmail.com
 
+<br/>
 
 ### Work Experience
 - 2015.04 ~ 2016.10 : 필링크 - 웹개발
 - 2016.11 ~ 2017.12 : 한컴커뮤니케이션 - 백엔드개발
 - 2018.01 ~ : 한글과컴퓨터
 
+<br/>
 
 ### Education
 - 2010.03 ~ 2015.08 : 숭실대 산업정보시스템공학과 졸업
 - 2014.12 ~ 2015.06 : 네이버 소프트웨어 멤버십 이수
 
+<br/>
 
 ### Certificated
 - 2013, 정보처리기사
 - 2013, SQLD
 
+<br/>
 
 ### Technical Skill
 - Java, Spring, SpringBoot, mybatis, Tomcat
@@ -32,6 +36,7 @@ permalink: /about/
 - Javascript, React.js, Node.js, jQuery,
 - mysql, redis, Mongodb, mariadb
 
+<br/>
 
 ### Project
 - 2016.11 ~ 2018.02 : <b> 교육유통플랫폼 '이음' 서비스 개발 </b> - API 서버 개발, 스케줄러 개발 및 메인 사이트 백엔드 개발 (Java, SpringBoot, Spring Batch, Git, AWS, swagger-ui, mysql, mybatis, paypal 연동 )
