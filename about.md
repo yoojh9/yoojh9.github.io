@@ -49,6 +49,3 @@ permalink: /about/
 
 ### Project @ home
 - [리액트로 만든 주소록 프로젝트](https://github.com/yoojh9/react-example/tree/master/react-contact-example) 
-
-
-[yoojh9@gmail.com](mailto:yoojh9@gmail.com)
