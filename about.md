@@ -31,7 +31,8 @@ permalink: /about/
 <br/>
 
 ### Technical Skill
-- Java, Spring, SpringBoot, mybatis, jmeter
+- Java, Python
+- Spring, SpringBoot, mybatis, jmeter
 - Heroku, Tomcat
 - Javascript, React.js, Node.js, express, jQuery,
 - mysql, redis, Mongodb, mariadb
@@ -48,4 +49,4 @@ permalink: /about/
 <br/>
 
 ### Project @ home
-- [리액트로 만든 주소록 프로젝트](https://github.com/yoojh9/react-example/tree/master/react-contact-example) 
+- [리액트로 만든 주소록 프로젝트](https://github.com/yoojh9/react-example/tree/master/react-contact-example)
