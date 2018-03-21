@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redux"
+title: "create-react-app을 이용하여 Redux 프로젝트 생성"
 tags: [react]
 comments: true
 ---
