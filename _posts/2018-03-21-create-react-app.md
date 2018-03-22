@@ -84,3 +84,9 @@ connect(
   - mapDispatchToProps: dispatch를 파라미터로 갖는 함수로 dispatch한 함수는 props로 연결해줌
   - mergeProps: state와 dispatch를 파라미터로 가져서 컴포넌트에 연결해야 할 props가 state와 dispatch 동시에 사용해야 할 때 사용(잘 사용 안함)
   - options <- {[pure = true], [withRef = false]}
+
+<br/>
+
+---
+#### 참고
+[create-react-app 예제 코드](https://github.com/yoojh9/react-example/tree/master/redux-example) <br/>
