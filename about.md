@@ -47,6 +47,7 @@ permalink: /about/
 - [https://sapi.iieom.com/swagger-ui.html](https://sapi.iieom.com/swagger-ui.html) - API 서버 개발
 - paypal 결제 연동, 요금제 및 컨텐츠 관리 관련 데몬 스케줄러 개발
 - (Java, SpringBoot, Spring Batch, Git, swagger-ui, mysql, mybatis, jmeter)
+<br/>
 
 #### 2) 2016.06 ~ 2016.10 : <b> LG유플러스 - 스팸차단서비스 </b>
 - 관리자 페이지 기능 강화 및 추가 개발, 사용자 앱(hybrid app) 인증 수정
