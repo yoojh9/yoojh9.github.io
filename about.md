@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### "유정현"
-- Back-end 개발자이지만 Front-end에 관심이 많은, Front-end 개발자를 꿈꾸는
+- Front-end를 좋아하는,
 - Github:  [https://github.com/yoojh9/](https://github.com/yoojh9/)  
 - Email: yoojh9@gmail.com
 
@@ -43,7 +43,7 @@ permalink: /about/
 
 ### Project @ company
 
-#### <b> 1) 교육유통플랫폼 '이음' 서비스 개발 </b> (2016.11 ~ 2018.02)
+#### <b> 1) 교육 컨텐츠 유통 플랫폼 '이음' 서비스 개발 </b> (2016.11 ~ 2018.02)
 - [http://www.iieom.com](http://www.iieom.com) - 이음 메인 사이트 백엔드 개발
 - [https://sapi.iieom.com/swagger-ui.html](https://sapi.iieom.com/swagger-ui.html) - API 서버 개발
 - paypal 결제 연동, 요금제 및 컨텐츠 관리 관련 데몬 스케줄러 개발
