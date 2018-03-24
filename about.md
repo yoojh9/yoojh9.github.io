@@ -27,7 +27,7 @@ permalink: /about/
 ### Certificated
 - 2013, 정보처리기사
 - 2013, SQLD
-
+- 2013, DAsP
 <br/>
 
 ### Technical Skill
