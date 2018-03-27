@@ -63,7 +63,7 @@ permalink: /about/
 
 #### <b> 3) kt엠하우스 - 혜택존 관리자 웹, 사용자 앱 추가 요구사항 개발 </b> (2016.05 ~ 2016.06)
 - 상품 이미지 등록 기능 추가, 상품 카테고리 순서 변경 가능하도록 추가 개발 및 그 외 수정사항 반영
-- (spring framework, java, ms-sql, tomcat)
+- (spring framework, java, jsp, ms-sql, tomcat)
 <br/><br/>
 
 #### <b> 4) IoT기반 서울대 캠퍼스마이크로그리드 구축 및 실증과제 </b> (2015.12 ~ 2016.05)
@@ -77,7 +77,7 @@ permalink: /about/
 - [http://gridsol.lsis.com](http://gridsol.lsis.com)
 - 가정용, 상업용 사용자를 위한 에너지 모니터링 웹 사이트 개발(프론트엔드)
 - highcharts.js 라이브러리를 이용한 차트 구현
-- (spring framework, jQuery, javascript, highcharts.js, svn)
+- (spring framework, jsp, jQuery, javascript, highcharts.js, svn)
 <br/><br/>
 ![Alt text](../images/gridsol.jpg)
 
