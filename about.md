@@ -84,5 +84,5 @@ permalink: /about/
 <br/>
 
 ### Project @ home
-- [리액트로 만든 주소록 프로젝트](https://github.com/yoojh9/react-example/tree/master/react-contact-example)
+- [리액트로 만든 ToDoApp](https://github.com/yoojh9/what-todo-app)
 - [스프링 기반 slack 에러 로그 봇](https://github.com/yoojh9/slack-error-bot)
