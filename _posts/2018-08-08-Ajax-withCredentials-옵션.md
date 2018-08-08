@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ajax withCredentials 옵션"
-tags: [ajax,CORS]
+tags: [javascript]
 comments: true
 ---
 
