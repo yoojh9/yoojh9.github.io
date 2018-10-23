@@ -114,5 +114,5 @@ public class HttpMessageConverterConfig extends WebMvcConfigurationSupport {
 ---
 #### 참고
 [Baeldung - Http Message Converters with the Spring Framework](https://www.baeldung.com/spring-httpmessageconverter-rest) <br>
-[Spring Framework의 메세지 컨버터를 이용한 FileDownload 구현](https://zgundam.tistory.com/12)
+[Spring Framework의 메세지 컨버터를 이용한 FileDownload 구현](https://zgundam.tistory.com/12) <br>
 [Spring 3 - @MVC 메시지 컨버터](http://springsource.tistory.com/89)
