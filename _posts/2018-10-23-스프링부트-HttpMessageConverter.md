@@ -5,8 +5,8 @@ tags: [SpringBoot]
 comments: true
 ---
 
-# HttpMessageConverters with the spring framework
-- HttpMessageConverter를 커스텀하여 개발하다 이슈가 발생했다. spring framework가 default로 제공해주는 HttpMessageConverter의 instance들이 있는데, 이를 제대로 알아보지 않고 그냥 구글링하여 코드를 추가하다보니 이슈가 생겼다
+# 스프링 프레임워크와 HttpMessageConverters
+HttpMessageConverter를 커스텀하여 개발하다 이슈가 발생했다. spring framework가 default로 제공해주는 HttpMessageConverter의 instance들이 있는데, 이를 제대로 알아보지 않고 그냥 구글링하여 코드를 추가하다보니 이슈가 생겼다
 
 <br><br>
 
