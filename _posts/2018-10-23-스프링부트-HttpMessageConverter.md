@@ -27,17 +27,17 @@ public class WebMvcConfig implements WebMvcConfigurer{
 
   @bean
   public HttpMessageConverter<?> htmlEscapingConverter(){
-  	ObjectMapper objectMapper = new ObjectMapper();
-	  objectMapper.getFactory().setCharacterEscapes(new HTMLCharacterEscapes());
-	  objectMapper.registerModule(new JavaTimeModule());
-		objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-		objectMapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);
+    ObjectMapper objectMapper = new ObjectMapper();
+    objectMapper.getFactory().setCharacterEscapes(new HTMLCharacterEscapes());
+    objectMapper.registerModule(new JavaTimeModule());
+    objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+    objectMapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);
 
-		MappingJackson2HttpMessageConverter htmlEscapingConverter =
-				new MappingJackson2HttpMessageConverter();
-		htmlEscapingConverter.setObjectMapper(objectMapper);
+    MappingJackson2HttpMessageConverter htmlEscapingConverter =
+        new MappingJackson2HttpMessageConverter();
+    htmlEscapingConverter.setObjectMapper(objectMapper);
 
-		return htmlEscapingConverter;
+    return htmlEscapingConverter;
   }
 }
 
