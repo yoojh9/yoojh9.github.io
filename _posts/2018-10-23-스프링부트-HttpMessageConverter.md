@@ -79,7 +79,7 @@ HttpMessageConverter에 미리 등록되어 있는 converter들을 몇가지 정
 <br><br>
 
 ## 4. 결론
-- 내가 작성했던 코드는 MappingJackson2HttpMessageConverter만을 커스텀 하여 HttpMessageConverter에 추가 함으로서, 기존에 등록되어 있던 message converter의 instance를 잃어버리게 되었다. 그러다보니 대부분의 json 데이터로 주고 받는 API는 정상적으로 동작하게 되고, File Resource를 response로 전달하는 API는 해당 MessageConverter가 등록되어 있지 않아 에러가 발생하게 되었다.
+- 내가 작성했던 코드는 MappingJackson2HttpMessageConverter만을 커스텀 하여 HttpMessageConverter에 추가함으로써, 기존에 등록되어 있던 message converter의 instance를 잃어버리게 되었다. 그러다보니 대부분의 json 데이터로 주고 받는 API는 정상적으로 동작하게 되고, File Resource를 response로 전달하는 API는 해당 MessageConverter가 등록되어 있지 않아 에러가 발생하게 되었다.
 - 기존에 작성했던 코드에서 필요한 부분은 defaultHttpMessageConvert를 추가하는 작업이 필요하다.
 - 다음과 같이 코드를 변경했다. 기존에 WebMvcConfigurer를 implements한 클래스 내에 있던 코드를 WebMvcConfigurationSupport를 extends한 클래스 내로 구현했다.
 
