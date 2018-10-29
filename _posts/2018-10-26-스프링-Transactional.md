@@ -6,7 +6,6 @@ comments: true
 ---
 
 # 스프링 Transactional
-
 ## @Transactional 속성
 #### 1) isolation ( 격리 수준 / @Transactional(isolation=Isolation.DEFAULT) )
 여러 트랜잭션이 진행될 때에 트랜잭션의 작업 결과를 다른 트랜잭션에게 어떻게 노출할 것인지를 결정하는 수준이다.
