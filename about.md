@@ -78,11 +78,7 @@ DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
 
 - Java, Android
 
-<br>
-
 - 기사링크: [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
-
-<br>
 
 ![기사캡처](../images/winia_news.png){:width="70%"}
 
