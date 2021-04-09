@@ -6,7 +6,7 @@
 name: Jeonghyun Yoo
 
 # Short bio or description (displayed in the header)
-description: Web Developer
+description: Web App Developer
 
 #
 # Flags below are optional
@@ -53,7 +53,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2018 Jeonghyun Yoo
+footer-text: © 2021 Jeonghyun Yoo
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
