@@ -58,6 +58,7 @@ permalink: /about/
 - [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
 
 ![스마트딤채캡처](../images/smartdimchae.png){: width="30%" height=""}
+![스마트딤채캡처2](../images/smartdimchae2.png){: width="30%" height=""}
 
 <br><br><br>
 
