@@ -72,9 +72,12 @@ DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
   - 라디오 스트리밍 서비스 개발 (ExoPlayer 이용)
   - webview 기반의 유튜브, 위니아e-shop 사이트 연동
 - Java, Android
-- [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
-
 ![스마트딤채캡처](../images/smartdimchae.png)
+
+<br>
+
+- 기사링크: [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
+![기사캡처](../images/winia_news.png){:width="70%"}
 
 <br><br><br>
 
