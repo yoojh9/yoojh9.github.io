@@ -11,9 +11,11 @@ permalink: /about/
 <br/>
 
 ### Work Experience
+- 2019.02 ~         : 위니아딤채
+- 2016.11 ~ 2019.02 : 한글과컴퓨터
 - 2015.04 ~ 2016.10 : 필링크
-- 2016.11 ~ 2017.12 : 한컴커뮤니케이션
-- 2018.01 ~ : 한글과컴퓨터
+
+
 
 <br/>
 
@@ -31,12 +33,14 @@ permalink: /about/
 <br/>
 
 ### Technical Skill
-- Java, Python
+- Java, Koltin, Dart, javascript
+- Android
+- Flutter
+- Vuejs, Node.js, express, jQuery
 - Spring, SpringBoot, mybatis
-- Heroku, Tomcat
-- Javascript, React.js, Node.js, express, jQuery
 - mysql, redis, Mongodb, mariadb
-- git, svn, jmeter
+- git
+- aws
 
 <br/>
 
