@@ -48,7 +48,8 @@ permalink: /about/
 <br/>
 
 ### Project @ company
-#### <b> 1)
+#### <b> 1) 스마트딤채 (2019.02 ~ ) </b> in 위니아딤채
+
 #### <b> 2) 해군사관학교 LMS 서비스 개발 </b> (2018.04 ~ 2019.02) in 한글과컴퓨터
 - 강의 관리 및 편집 API 개발
 - 스토리지 파일 업로드 API 개발 (확장성을 위해 Azure storage, AWS S3, NFS 방식의 업로드 구현)
