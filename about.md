@@ -108,7 +108,7 @@ permalink: /about/
 - highcharts.js 라이브러리를 이용한 차트 구현
 - (spring framework, jsp, jQuery, javascript, highcharts.js, svn)
 <br/><br/>
-![Alt text](../images/gridsol.jpg)
+![gridsol](../images/gridsol.jpg)
 
 <br/>
 
