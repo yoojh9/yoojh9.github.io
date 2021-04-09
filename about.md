@@ -49,7 +49,7 @@ permalink: /about/
 
 ### @위니아딤채
 #### <b> 1) 위니아IoT 앱 개발 & 유지보수 (2020.03 ~ ) </b> - 사내 프로젝트
-DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
+DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱    
 [KEA DAMDA 템플릿앱](https://www.godamda.kr/download/template)을 이용하여 자체 앱 개발
 
 - 하이브리드앱 기반의 안드로이드, iOS 앱 개발
