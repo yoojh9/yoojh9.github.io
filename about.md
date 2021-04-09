@@ -10,7 +10,7 @@ permalink: /about/
 
 <br/>
 
-## Work Experience
+### Work Experience
 
 - 2019.02 ~         : 위니아딤채
 - 2016.11 ~ 2019.02 : 한글과컴퓨터
