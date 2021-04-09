@@ -42,7 +42,7 @@ permalink: /about/
 - mysql, redis, Mongodb, mariadb
 - git
 - aws
-
+ 
 <br/>
 
 ## Project @ company
