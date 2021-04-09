@@ -13,9 +13,7 @@ permalink: /about/
 ## Work Experience
 
 - 2019.02 ~         : 위니아딤채
-
 - 2016.11 ~ 2019.02 : 한글과컴퓨터
-
 - 2015.04 ~ 2016.10 : 필링크
 
 
@@ -55,7 +53,7 @@ permalink: /about/
   - UART Serial 통신 기반 냉장고 제어 기능 개발
   - 날씨, 미세먼지 API 연동을 통해 편의 서비스 제공
   - 라디오 스트리밍 서비스 개발 (ExoPlayer 이용)
-  - webview 기반의 유튜브, 위니아e-shop 사이트 
+  - webview 기반의 유튜브, 위니아e-shop 사이트 연동
 - Java, Android
 - [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
 <br><br><br>
