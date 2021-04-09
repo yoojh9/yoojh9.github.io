@@ -71,8 +71,10 @@ DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
   - 날씨, 미세먼지 API 연동을 통해 편의 서비스 제공
   - 라디오 스트리밍 서비스 개발 (ExoPlayer 이용)
   - webview 기반의 유튜브, 위니아e-shop 사이트 연동
-- Java, Android
+
 ![스마트딤채캡처](../images/smartdimchae.png)
+
+- Java, Android
 
 <br>
 
