@@ -49,12 +49,14 @@ permalink: /about/
 
 ### @위니아딤채
 #### <b> 1) 위니아IoT 앱 개발 & 유지보수 (2020.03 ~ ) </b> - 사내 프로젝트
-- DAMDA IoT 플랫폼을 활용한 위니아 IoT 앱 개발
-- [KEA DAMDA 템플릿앱](https://www.godamda.kr/download/template)을 이용하여 자체 앱 개발
- - 1) 하이브리드앱 기반의 안드로이드, iOS 앱 개발
+DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
+[KEA DAMDA 템플릿앱](https://www.godamda.kr/download/template)을 이용하여 자체 앱 개발
+
+- 1) 하이브리드앱 기반의 안드로이드, iOS 앱 개발
   - vue.js 기반의 frontend 화면 개발
   - Node.js + express 모바일 웹서버 구축 (backend)
- - 2) 딤채 쁘띠 김치냉장고 카테고리 개발
+ 
+- 2) 딤채 쁘띠 김치냉장고 카테고리 개발
   - 냉장고 제어 모드 변경 기능 개발 (WiFi)
   - 인감지센서 데이터로 패밀리케어 기능 개발
  
