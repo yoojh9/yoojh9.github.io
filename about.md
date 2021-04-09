@@ -10,7 +10,7 @@ permalink: /about/
 
 <br/>
 
-### Work Experience
+## Work Experience
 
 - 2019.02 ~         : 위니아딤채
 
@@ -47,10 +47,16 @@ permalink: /about/
 
 <br/>
 
-### Project @ company
-#### <b> 1) 스마트딤채 (2019.02 ~ ) </b> in 위니아딤채
+## Project @ company
 
-#### <b> 2) 해군사관학교 LMS 서비스 개발 </b> (2018.04 ~ 2019.02) in 한글과컴퓨터
+### @위니아딤채
+#### <b> 1) 스마트딤채 (2019.02 ~ ) </b>
+
+<br><br><br>
+
+### @한글과컴퓨터
+
+#### <b> 2) 해군사관학교 LMS 서비스 개발 </b> (2018.04 ~ 2019.02)
 - 강의 관리 및 편집 API 개발
 - 스토리지 파일 업로드 API 개발 (확장성을 위해 Azure storage, AWS S3, NFS 방식의 업로드 구현)
 - 클라우드 스토리지 및 화상 강의 외부 솔루션 연동
@@ -62,7 +68,9 @@ permalink: /about/
 - [https://sapi.iieom.com/swagger-ui.html](https://sapi.iieom.com/swagger-ui.html) - API 서버 개발
 - paypal 결제 연동, 요금제 및 컨텐츠 관리 관련 스케줄러 개발
 - (Java, SpringBoot, Spring scheduler, Git, swagger-ui, mysql, mybatis, jmeter)
-<br/><br/>
+<br/><br/><br>
+
+### @필링크
 
 #### <b> 4) LG유플러스 - 스팸차단서비스 </b> (2016.06 ~ 2016.10)
 - 관리자 페이지 기능 강화 및 추가 개발, 사용자 앱(hybrid app) 인증 수정
