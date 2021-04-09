@@ -59,11 +59,12 @@ DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
 - 딤채 쁘띠 김치냉장고 카테고리 개발
   - 냉장고 제어 모드 변경 기능 개발 (WiFi)
   - 인감지센서 데이터로 패밀리케어 기능 개발
+
+- Node.js, express, vue.js
 <br>
 
 ![위니아IoT앱](../images/winia_iot_app.png)
 
-- Node.js, express, vue.js
 
 <br><br><br>
 
@@ -73,10 +74,9 @@ DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
   - 날씨, 미세먼지 API 연동을 통해 편의 서비스 제공
   - 라디오 스트리밍 서비스 개발 (ExoPlayer 이용)
   - webview 기반의 유튜브, 위니아e-shop 사이트 연동
+- Java, Android
 
 ![스마트딤채캡처](../images/smartdimchae.png)
-
-- Java, Android
 
 - 기사링크: [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
 
