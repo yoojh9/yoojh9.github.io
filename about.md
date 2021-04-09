@@ -56,6 +56,9 @@ permalink: /about/
   - webview 기반의 유튜브, 위니아e-shop 사이트 연동
 - Java, Android
 - [대유위니아, IoT 기반 김치냉장고 딤채 출시](http://www.energy-news.co.kr/news/articleView.html?idxno=63896)
+
+![Alt text](../images/smartdimchae.png)
+
 <br><br><br>
 
 ### @한글과컴퓨터
