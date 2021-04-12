@@ -140,5 +140,9 @@ DAMDA IoT 플랫폼을 활용한 위니아 자체 IoT 앱
  - Flutter를 이용하여 iOS, android 앱 개발
    - 앱스토어
    ![todayweather](../images/appstore.png){: width="50%"}
-   - 구글플레이
+   
+   <br>
+ 
+   - [구글플레이](https://play.google.com/store/apps/details?id=kr.jeonghyun.today_weather)
+   ![todayweather_android](../images/weather_playstore.png){: width="50%"}
  - Flutter, Dart
